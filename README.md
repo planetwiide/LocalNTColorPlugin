@@ -16,16 +16,12 @@ To use the plugin, follow these steps:
 
 ### Color Options
 
-The `<color>` parameter should be the name of the desired color without the `&` or `§` symbols. Supported colors include:
-- red
-- blue
-- green
-- yellow
-- purple
-- white
-- ...
+The `<color>` parameter should be the name of the desired color without the `&` or `§` symbols. Supported colors include all default minecraft colors.
 
 ## Example
 
 ```bash
-/color Notch red
+/color Notch a
+```
+
+If you find any problems, add  me on Discord : `zNairu`
