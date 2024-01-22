@@ -6,7 +6,7 @@ This Minecraft plugin allows users to change the color of a selected player's di
 
 To use the plugin, follow these steps:
 
-1. Download the plugin JAR file from the [Releases](link_to_releases) page.
+1. Download the plugin JAR file from the [Releases](https://github.com/zNairu/nametagcolorplugin/releases) page.
 2. Place the JAR file into the `plugins` folder of your Minecraft server.
 3. Restart the server to apply changes.
 
