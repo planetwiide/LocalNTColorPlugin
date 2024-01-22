@@ -1,1 +1,12 @@
-
+name: NametagColorPlugin
+version: 1.0.2
+main: fr.NametagColorPlugin
+description: Change the colors of players' nametags locally.
+author: zNairu
+commands:
+  color:
+    description: Change the color of a nametag locally.
+    usage: /color <player> <color>
+    aliases:
+      - setcolor
+      - playercolor
