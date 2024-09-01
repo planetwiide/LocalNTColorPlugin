@@ -1,8 +1,8 @@
 name: NametagColorPlugin
 version: 1.0.2
 main: fr.NametagColorPlugin
-description: Change the colors of players' nametags locally.
-author: zNairu
+description: This plugin uses Bukkit's scoreboard to locally change the name tag color of a player. It was originally created for playing strategic UHCs
+author: planetwide!
 commands:
   color:
     description: Change the color of a nametag locally.
